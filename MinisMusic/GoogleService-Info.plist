@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994918818001-0g2ejme3kl5hmfe357438q09q547manu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994918818001-0g2ejme3kl5hmfe357438q09q547manu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBu0KkbEvrlUaDZfRHtL4uxq45Wg7FakLw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994918818001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SolarMoon.MinisMusic</string>
+	<key>PROJECT_ID</key>
+	<string>minismusic-c7913</string>
+	<key>STORAGE_BUCKET</key>
+	<string>minismusic-c7913.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994918818001:ios:662f6416eb5cc6ae</string>
+	<key>DATABASE_URL</key>
+	<string>https://minismusic-c7913.firebaseio.com</string>
+</dict>
+</plist>
